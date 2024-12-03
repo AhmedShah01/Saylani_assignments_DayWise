@@ -1,0 +1,27 @@
+
+p.textHeading {
+    font-weight: bold;
+
+    font-style: italic;
+   
+    text-decoration: underline dashed purple;
+}
+
+a {
+    text-decoration: none;
+   
+}
+
+.paraSpan{
+    color: rgb(255, 157, 0);
+    text-decoration: underline black;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.secondspan{
+ color:    rgb(255, 157, 0);
+ text-decoration: underline black;
+    font-weight: bold;
+    font-style: italic;
+}
